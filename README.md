@@ -1,2 +1,1 @@
-# fe0b6c0731acac027e541009cf70a579
 Placement Bootcamp 2017
